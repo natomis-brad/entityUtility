@@ -1,6 +1,6 @@
 'use strict';
 /* indent: 2, node:true, nomen: true, maxlen: 80, vars: true*/
-var scan = require('./modules/scan');
+var scan = require('scan');
 module.exports = {
     setupEntites: function (app, db, security) {
     try

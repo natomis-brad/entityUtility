@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/natomis-brad/entityUtility/issues"
   },
-  "homepage": "https://github.com/natomis-brad/entityUtility"
+  "homepage": "https://github.com/natomis-brad/entityUtility",
+  "dependencies": {
+    "scan" : "git://github.com/natomis-brad/scan"
+  }
 }
