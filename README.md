@@ -1,4 +1,4 @@
 entityUtility
 =============
 
-node async directory scanner
+node entity utility
