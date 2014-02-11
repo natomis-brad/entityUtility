@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/natomis-brad/entityUtility",
   "dependencies": {
-    "scan" : "git://github.com/natomis-brad/scan"
+    "scan" : "git+https://github.com/natomis-brad/scan.git"
   }
 }
