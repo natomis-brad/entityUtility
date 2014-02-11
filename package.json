@@ -1,0 +1,19 @@
+{
+  "name": "entityUtiltiy",
+  "version": "0.0.1",
+  "description": "node entity scanner",
+  "main": "entityUtility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natomis-brad/entityUtility"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natomis-brad/entityUtility/issues"
+  },
+  "homepage": "https://github.com/natomis-brad/entityUtility"
+}
